@@ -1,3 +1,4 @@
+google.com, pub-6995098209009565, DIRECT, f08c47fec0942fa0
 # Audiomob
 audiomob.com, 655818a4d6624135ee8b6ce9f188a2e, DIRECT, 4b0cec5c9072d7d7
 # Audiomob - 152 Media
